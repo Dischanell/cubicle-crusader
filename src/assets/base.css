@@ -1,0 +1,12 @@
+:root {
+	--color-background: #2c3e50;
+	--color-text: #fff;
+}
+
+body {
+	color: var(--color-text);
+	background-color: var(--color-background);
+	font-family: sans-serif;
+	font-size: 15px;
+	line-height: 1.6;
+}
